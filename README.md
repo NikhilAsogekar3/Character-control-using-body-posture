@@ -16,7 +16,7 @@ To get started you need to:
 
 ### Prerequisites
 
-1. Ubuntu 18.04 bionic
+1. Windows or Ubuntu 18.04 bionic
 2. Python Dependencies
 3. Conda Environment (Follow only if normal python Env. not working)
 
