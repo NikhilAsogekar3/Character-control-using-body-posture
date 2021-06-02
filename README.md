@@ -29,7 +29,7 @@ pip install --upgrade pip
 
 ```
 
-###Conda Steps to follow
+### Conda Steps to follow
 
 **Installation**
 
@@ -37,6 +37,7 @@ pip install --upgrade pip
 2. https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
 **Conda Dependencies**
+```
 conda activate env_name
 conda install --channel https://conda.anaconda.org/menpo opencv3 
 pip install mediapipe 
